@@ -7,7 +7,7 @@ In this project you'll be able to implement a fully functional deep neural netwo
 # Project Instructions
 __________________________________________________________________________________________________________________________________________
 1. Clone the repository and navigate to the downloaded folder.
-	git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+	git clone https://github.com/DanielsKraus/Pytorch-dog-app.git
 	cd deep-learning-v2-pytorch/project-dog-classification
 
 2. Download the dog dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages. The dogImages/ folder      should contain 133 folders, each corresponding to a different dog breed.
